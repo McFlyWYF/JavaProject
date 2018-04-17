@@ -1,0 +1,9 @@
+USE xscj2
+/*
+CREATE TABLE Teacher
+(Sname CHAR(10) PRIMARY KEY,
+Sno CHAR(20) UNIQUE ,
+Sage SMALLINT);
+*/
+SELECT *
+FROM teacher;
