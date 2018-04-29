@@ -5,12 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/LanQiao/Demo.java" line="331" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b33fbd-e465-4159-8028-e228dc00033e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaHomeWork/MidExam/five/PersonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6153d509-da43-4046-a4e1-ea20ae34df3e.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d0a4e82a-e366-498f-840c-775aba50427c.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f480b629-f71a-460a-bd33-2417ea857121.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f480b629-f71a-460a-bd33-2417ea857121.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="41b33fbd-e465-4159-8028-e228dc00033e" name="Default" comment="Exam7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -68,8 +63,8 @@
       <file leaf-file-name="Exam7.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaHomeWork/Exam7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="152">
+              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -194,6 +189,12 @@
               <item name="SQLDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaHomeWork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -443,12 +444,27 @@
       <workItem from="1524491659514" duration="1293000" />
       <workItem from="1524728309000" duration="5003000" />
       <workItem from="1524735510263" duration="185000" />
-      <workItem from="1524993993473" duration="1749000" />
+      <workItem from="1524993993473" duration="2087000" />
     </task>
+    <task id="LOCAL-00001" summary="Exam7">
+      <created>1524995764588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524995764588</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exam7">
+      <created>1524996083382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524996083382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247836000" />
+    <option name="totallyTimeSpent" value="248174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -463,7 +479,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.3283582" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952926" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30099857" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30099857" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32952926" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -868,8 +884,8 @@
     <entry file="file://H:/MidExam/Three.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaHomeWork/Exam7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="152">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
