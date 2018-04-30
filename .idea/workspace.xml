@@ -6,7 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b33fbd-e465-4159-8028-e228dc00033e" name="Default" comment="Exam7">
+      <change afterPath="$PROJECT_DIR$/src/Day10/HashSetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SQLDemo/JavaHomeWork/Exam7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SQLDemo/JavaHomeWork/Exam7.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,11 +62,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Exam7.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Exam7.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaHomeWork/Exam7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day10/LinkedListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayListTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Day10/ArrayListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayListTest2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day10/ArrayListTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashSetTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day10/HashSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day10/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,11 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaHomeWork/Exam4/Shape/work/CCricle.java" />
-        <option value="$PROJECT_DIR$/src/JavaHomeWork/Exam4/work/Demo.java" />
-        <option value="$PROJECT_DIR$/src/JavaHomeWork/Exam5/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/JavaHomeWork/Exam5/JavaTeacher.java" />
-        <option value="$PROJECT_DIR$/src/JavaHomeWork/Exam5/DBTeacher.java" />
         <option value="$PROJECT_DIR$/src/JavaHomeWork/Exam5/Common.java" />
         <option value="$PROJECT_DIR$/src/JavaHomeWork/Exam5/TeacherDemo.java" />
         <option value="$PROJECT_DIR$/src/JavaHomeWork/Exam5/teacher/DBTeacher.java" />
@@ -150,6 +232,11 @@
         <option value="$PROJECT_DIR$/src/JavaHomeWork/MidExam/Three.java" />
         <option value="H:/MidExam/Three.java" />
         <option value="$PROJECT_DIR$/src/JavaHomeWork/Exam7.java" />
+        <option value="$PROJECT_DIR$/src/Day10/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/Day10/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/Day10/ArrayListTest2.java" />
+        <option value="$PROJECT_DIR$/src/Day10/Test.java" />
+        <option value="$PROJECT_DIR$/src/Day10/HashSetTest.java" />
       </list>
     </option>
   </component>
@@ -166,10 +253,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+    <option name="x" value="1913" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,7 +263,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,14 +279,15 @@
               <item name="SQLDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaHomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Day10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,7 +323,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exam7">
+  <component name="RunManager" selected="Application.HashSetTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -252,57 +338,57 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Exam7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaHomeWork.Exam7" />
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10.ArrayListTest" />
       <module name="SQLDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaHomeWork.*" />
+          <option name="PATTERN" value="Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PersonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaHomeWork.MidExam.five.PersonDemo" />
+    <configuration name="ArrayListTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10.ArrayListTest2" />
       <module name="SQLDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaHomeWork.MidExam.five.*" />
+          <option name="PATTERN" value="Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RectangleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaHomeWork.MidExam.four.RectangleDemo" />
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10.HashSetTest" />
       <module name="SQLDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaHomeWork.MidExam.four.*" />
+          <option name="PATTERN" value="Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Six" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaHomeWork.MidExam.Six" />
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10.LinkedListTest" />
       <module name="SQLDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaHomeWork.MidExam.*" />
+          <option name="PATTERN" value="Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaHomeWork.MidExam.Three" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10.Test" />
       <module name="SQLDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaHomeWork.MidExam.*" />
+          <option name="PATTERN" value="Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,19 +449,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.AbstractStudent" />
-      <item itemvalue="Application.RectangleDemo" />
-      <item itemvalue="Application.PersonDemo" />
-      <item itemvalue="Application.Six" />
-      <item itemvalue="Application.Three" />
-      <item itemvalue="Application.Exam7" />
+      <item itemvalue="Application.LinkedListTest" />
+      <item itemvalue="Application.ArrayListTest" />
+      <item itemvalue="Application.ArrayListTest2" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.HashSetTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exam7" />
-        <item itemvalue="Application.Three" />
-        <item itemvalue="Application.Six" />
-        <item itemvalue="Application.PersonDemo" />
-        <item itemvalue="Application.RectangleDemo" />
+        <item itemvalue="Application.HashSetTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ArrayListTest2" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.LinkedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -445,6 +531,7 @@
       <workItem from="1524728309000" duration="5003000" />
       <workItem from="1524735510263" duration="185000" />
       <workItem from="1524993993473" duration="2087000" />
+      <workItem from="1525089207078" duration="7159000" />
     </task>
     <task id="LOCAL-00001" summary="Exam7">
       <created>1524995764588</created>
@@ -464,10 +551,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248174000" />
+    <option name="totallyTimeSpent" value="255333000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
@@ -479,18 +567,18 @@
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.3283582" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952926" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30099857" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29986432" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32952926" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12596402" />
       <window_info anchor="right" id="Database" order="5" weight="0.32904884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3962008" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -501,34 +589,34 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32871974" />
       <window_info active="true" anchor="bottom" id="Database Console" order="12" visible="true" weight="0.3281027" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39087018" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952926" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2191689" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32524964" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952926" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32952926" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39087018" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32871974" />
       <window_info anchor="right" id="Database" order="5" visible="true" weight="0.32908848" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32952926" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32952926" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32524964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.3297587" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2191689" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,23 +656,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SQL/SQLDemo.java" />
-    <entry file="das://d0a4e82a-e366-498f-840c-775aba50427c/schema/xscj2/table/teacher.sql" />
-    <entry file="das://d0a4e82a-e366-498f-840c-775aba50427c/schema/xscj2/table/teacher" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d0a4e82a-e366-498f-840c-775aba50427c/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://f480b629-f71a-460a-bd33-2417ea857121/schema/xscj/table/student.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SQLDemo/Facade.java" />
     <entry file="file://$PROJECT_DIR$/src/SQLDemo/MyDBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -885,7 +956,82 @@
     <entry file="file://$PROJECT_DIR$/src/JavaHomeWork/Exam7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day10/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day10/ArrayListTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day10/HashSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day10/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day10/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
