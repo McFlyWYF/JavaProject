@@ -3,7 +3,9 @@ package Day10;
 /*
 Set集合的功能和collection的功能一致
 Set集合元素无序且不可以重复，无序是指存入和取出的顺序不一致
-HashSet底层数据结构是哈希表
+HashSet底层数据结构是哈希表,HashSet是如何保证元素的唯一性：是通过元素的两个方法，hashCode和equals。
+如果元素的hashCode值相同，才会判断equals是否为true
+如果元素的hashCode值不同，不会调用equals
 TreeSet
 */
 
@@ -37,7 +39,7 @@ class Person1{
     }
 
     public int hashCode(){
-        return 60;
+        return this.hashCode()+age;
     }
 
     @Override
@@ -48,7 +50,7 @@ class Person1{
 
         Person1 p1 = (Person1)obj;
 
-        System.out.println(this.name + " " + p1.name);
+        System.out.println(this.name + "----" + p1.name);
         return this.name.equals(p1.name) && this.age == p1.age;
     }
 }
@@ -62,6 +64,9 @@ public class HashSetTest {
         hs.add(new Person("bb",12));
         hs.add(new Person("cc",13));
         hs.add(new Person("dd",14));
+
+        System.out.println(hs.contains(new Person("bb",12)));//true
+        hs.remove(new Person("cc",13));
 
         Iterator it = hs.iterator();
         while (it.hasNext()){
