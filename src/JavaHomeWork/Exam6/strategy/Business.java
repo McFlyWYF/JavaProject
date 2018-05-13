@@ -1,4 +1,4 @@
-package JavaHomeWork.Exam5.strategy;
+package JavaHomeWork.Exam6.strategy;
 
 public interface Business {
 

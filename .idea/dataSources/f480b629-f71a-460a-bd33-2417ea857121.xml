@@ -912,19 +912,29 @@
     <table id="229" parent="6" name="student">
       <Engine>InnoDB</Engine>
     </table>
-    <column id="230" parent="229" name="Sname">
+    <column id="230" parent="229" name="权限">
       <Position>1</Position>
-      <DataType>char(10)|0s</DataType>
+      <DataType>char(50)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="231" parent="229" name="Sno">
+    <column id="231" parent="229" name="用户名">
       <Position>2</Position>
-      <DataType>char(10)|0s</DataType>
+      <DataType>char(50)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="232" parent="229" name="scores">
+    <column id="232" parent="229" name="密码">
       <Position>3</Position>
-      <DataType>int(11)|0s</DataType>
+      <DataType>char(50)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="233" parent="229" name="学号">
+      <Position>4</Position>
+      <DataType>char(50)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="234" parent="229" name="姓名">
+      <Position>5</Position>
+      <DataType>char(50)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
   </database-model>

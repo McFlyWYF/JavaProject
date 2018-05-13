@@ -1,4 +1,6 @@
-package JavaHomeWork.Exam5.strategy;
+package JavaHomeWork.Exam6.strategy;
+
+import JavaHomeWork.Exam6.strategy.player;
 
 public class StrategyDemo {
 
