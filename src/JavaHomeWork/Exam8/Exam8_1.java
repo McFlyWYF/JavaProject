@@ -2,22 +2,22 @@ package JavaHomeWork.Exam8;
 
 public class Exam8_1 implements Runnable {
 
-    private String threadname;
-    Exam8_1(String threadname){
-        this.threadname = threadname;
-    }
-
     @Override
     public void run() {
-        System.out.println("Running " + threadname);
+        System.out.println("Running " + Thread.currentThread().getName());
+        //System.out.println("当前线程名字是："+Thread.currentThread().getName());
         try {
             for (int i = 0; i < 10; i++) {
-                System.out.println("Thread_1 - " + i);
-                Thread.sleep(1000);
+                System.out.println(Thread.currentThread().getName() + "-----" + i);
+//                Thread.sleep(1000);
+                if (i == 5){
+                    Thread.yield();
+                    System.out.println("线程暂停");
+                }
             }
-        } catch (InterruptedException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
-        System.out.println("Stoped " + threadname);
+        System.out.println("Stoped " + Thread.currentThread().getName());
     }
 }
