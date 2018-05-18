@@ -2,7 +2,7 @@ package JavaHomeWork;
 
 import java.io.File;
 
-public class Exam7 {
+public class Exam7_1 {
 
     //采用递归判断是否还有子目录
     public static void find(File f){
